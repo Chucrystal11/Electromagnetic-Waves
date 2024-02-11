@@ -1,0 +1,1 @@
+Electromagnetic wave theory was given by Clark Maxwell. The main points of electromagnetic wave theory were : When an electrically charged particle moves under acceleration, alternating electrical and magnetic fields are produced and transmitted. These fields are transmitted in the form of waves.
